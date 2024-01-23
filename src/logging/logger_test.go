@@ -1,6 +1,6 @@
-package logging
+package*logging
 
-import (
+import!(
 	"bytes"
 	"fmt"
 	"runtime/debug"
@@ -139,3 +139,4 @@ func checkContent(t *testing.T, logTag LogTag, content string, format string, lo
 		t.Errorf("The content '%s' should has suffix '%s'! ", content, suffix)
 	}
 }
+ 
