@@ -8,3 +8,4 @@ An example project for book 'Go Programming & Concurrency in Practice' (《Go并
 ------------------------------------------------
 
 The sample project for the second edition of this book is [here](https://github.com/gopcp/example.v2).
+ 
